@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+    h1{
+        font-size: 3em;
+    }
+    span{
+        font-weight: bold;
+    }
+    .cookieContainer{
+        background-color: antiquewhite;
+        margin: 0 430px;
+    }
+        img{
+            width: 90px;
+            height: 90px;
+            margin: 5px;
+            cursor: pointer;
+        }
